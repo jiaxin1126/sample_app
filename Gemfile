@@ -10,6 +10,8 @@ gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
+gem 'faker',        '1.7.3'
+gem 'bootstrap-will_paginate', '1.0.0'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
